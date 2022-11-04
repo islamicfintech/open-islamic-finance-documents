@@ -4,7 +4,7 @@ This repo aims to collect and create open source agreements and contacts that ca
 
 ## Agreements to be created
 
-- [ ]  Lending between 2 people
+- [ ]  [Lending between two people](/docs/lending-between-two-people.md)
 - [ ]  Sale of Tangible Asset (Physical)
 - [ ]  Sale of Intangible Asset (Virtual or non-physical)
 - [ ]  Sale of Property
