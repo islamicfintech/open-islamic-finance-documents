@@ -1,4 +1,4 @@
-# Open Agreements
+# Open Islamic Docs
 
 This repo aims to collect and create open source agreements and contacts that can be used to by Muslims and Non-Muslims across the world.
 
