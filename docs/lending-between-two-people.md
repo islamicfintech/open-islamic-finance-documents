@@ -47,11 +47,4 @@ And if you are on a journey and cannot find a scribe, then let there be a pledge
 
 [Ref: Islamqa 13180](https://islamqa.info/en/answers/13180/writing-a-debt-and-having-it-witnessed)
 
-<style>
-    table { width: 100%; }
-    th { background: #dfe1e5; }
-    td:first-child { max-width: 250px; }
-    td:not(:first-child) { height: 50px; width: 300px; max-width: 100% }
-</style>
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css" integrity="sha512-KUoB3bZ1XRBYj1QcH4BHCQjurAZnCO3WdrswyLDtp7BMwCw7dPZngSLqILf68SGgvnWHTD5pPaYrXi6wiRJ65g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
