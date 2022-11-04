@@ -33,11 +33,11 @@ This document will outline the terms and conditions for the money lent between t
 
 ### Method 1
 
-Witness method 1 consists of 2 male.
+Witness method 1 consists of two males.
 
 ### Method 2
 
-Witness method 2 consists of 1 male and 2 females.
+Witness method 2 consists of one male and two females.
 
 ## References
 
